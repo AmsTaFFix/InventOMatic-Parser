@@ -406,7 +406,7 @@
                 "ari": "50% damage based on caps",
                 "ass": "50% damage to humans",
                 "b": "95% as health decreases",
-                "ber": "50% as damage resistance decreases",
+                "ber": "Damage Increases up to +50%% as Damage Resistance Decreases",
                 "exe": "50% more damage when your target is below 40% health",
                 "ext": "50% damage to insects",
                 "f": "damage after each consecutive hit",
